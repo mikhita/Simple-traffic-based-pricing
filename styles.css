@@ -261,8 +261,7 @@
         background-color: #CFD8EF;
     }
     .tarrif .price{
-        transform: translate(30%, 400%);
-        max-width: 190px;
+        transform: translate(-25%, 400%);
     }
     .tarrif{
         display: block;
